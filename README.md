@@ -6,6 +6,7 @@
    <img width="467" alt="image" src="https://github.com/mythrimurthy/EV-market/assets/77239216/6f577c28-f13c-4f14-845c-c410e48cbf25">
    
    <img width="465" alt="image" src="https://github.com/mythrimurthy/EV-market/assets/77239216/95254391-e842-4104-bb3f-03fbe799851c">
+
    
    <img width="417" alt="image" src="https://github.com/mythrimurthy/EV-market/assets/77239216/8a1482a5-6f58-49db-be3c-3259071baa3b">
 
